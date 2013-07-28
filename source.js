@@ -1,4 +1,3 @@
-<script>
 (function () {
 'use strict';
 
@@ -137,4 +136,3 @@ w._gaq.push(function() {
 });
 
 }());
-</script>
